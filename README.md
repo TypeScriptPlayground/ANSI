@@ -1,2 +1,2 @@
 # ANSI
-ANSi escape codes library written in TypeScript for Deno.
+ANSI escape codes library written in TypeScript for Deno.
