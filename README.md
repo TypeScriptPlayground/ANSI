@@ -1,6 +1,8 @@
 # ANSI
 ANSI escape codes library written in TypeScript for Deno.
 
+[Dots](https://en.wikipedia.org/wiki/Braille_Patterns)
+
 ```ts
 function animateSpinner() {
     const frames = ['⠋ ', '⠉⠁', '⠈⠃', ' ⠇', '⠠⠆', '⠤⠄', '⠦ ', '⠇ '];
