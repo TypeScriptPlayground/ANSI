@@ -5,6 +5,6 @@ import { sequences } from "../constants/sequences.ts";
  * @param columns Number of rows to move up. Defaults to `1`.
  * @returns Formatted string
  */
-export function upStart(rows = 1) : string {
+export default function upStart(rows = 1) : string {
     return `${sequences.CSI}${rows}F`;
 }

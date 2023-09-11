@@ -8,7 +8,7 @@ import { sequences } from "../constants/sequences.ts";
  * @param y Screen Y position
  * @returns Formatted string
  */
-export function to(x : number, y : number) : string {
+export default function to(x : number, y : number) : string {
     const line = y + 1;
     const column = x + 1;
 

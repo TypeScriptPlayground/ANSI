@@ -5,6 +5,6 @@ import { sequences } from "../constants/sequences.ts";
  * @param columns Column position
  * @returns Formatted string
  */
-export function column(columns : number) : string {
+export default function column(columns : number) : string {
     return `${sequences.CSI}${columns}G`;
 }
