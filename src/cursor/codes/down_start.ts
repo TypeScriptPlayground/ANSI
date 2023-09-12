@@ -1,7 +1,7 @@
 import { sequences } from "../../constants/sequences.ts";
 
 /**
- * Moves cursor to beginning of next line, the specified number of rows down.
+ * Generates formatted string to move the cursor to beginning of next line, the specified number of rows down.
  * @param columns Number of rows to move down. Defaults to `1`.
  * @returns Formatted string
  */

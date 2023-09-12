@@ -1,7 +1,7 @@
 import { sequences } from "../../constants/sequences.ts";
 
 /**
- * Request cursor position.
+ * Generates formatted string to request the cursor position.
  * @returns Formatted string
  */
 export default function position() : string {

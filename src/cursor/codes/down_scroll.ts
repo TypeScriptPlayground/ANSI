@@ -1,7 +1,7 @@
 import { sequences } from "../../constants/sequences.ts";
 
 /**
- * Moves cursor one line down, scrolling if needed.
+ * Generates formatted string to move the cursor one line down, scrolling if needed.
  * @returns Formatted string
  */
 export default function downScroll() : string {

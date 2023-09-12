@@ -1,7 +1,7 @@
 import { sequences } from "../../constants/sequences.ts";
 
 /**
- * Moves cursor the specified number of columns to the left.
+ * Generates formatted string to move the cursor the specified number of columns to the left.
  * @param columns Number of columns to move left. Defaults to `1`.
  * @returns Formatted string
  */

@@ -1,7 +1,7 @@
 import { sequences } from "../../constants/sequences.ts";
 
 /**
- * Moves the cursor to x (column) and y (row).
+ * Generates formatted string to move the cursor to x (column) and y (row).
  * 
  * Starts with index `x = 0` (most left) and `y = 0` (most top).
  * @param x Screen X position

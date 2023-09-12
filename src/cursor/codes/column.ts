@@ -1,7 +1,7 @@
 import { sequences } from "../../constants/sequences.ts";
 
 /**
- * Moves cursor the specified number of column.
+ * Generates formatted string to move th cursor the specified number of column.
  * @param columns Column position
  * @returns Formatted string
  */
