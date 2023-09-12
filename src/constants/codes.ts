@@ -16,7 +16,9 @@ export const codes = {
     /** 
      * Escape character - `\e`
      * 
-     * **Note:** Some control escape sequences, like `\e` for ESC, are not guaranteed to work in all languages and compilers.
+     * **Note:** Some control escape sequences, like `\e` for ESC, are not guaranteed to work in all languages and
+     * compilers.
+     * 
      * It is recommended to use the decimal, octal or hex representation as escape code.
      */
     ESC: 0x1b,
