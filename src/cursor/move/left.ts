@@ -1,4 +1,4 @@
-import { sequences } from "../constants/sequences.ts";
+import { sequences } from "../../constants/sequences.ts";
 
 /**
  * Moves cursor the specified number of columns to the left.

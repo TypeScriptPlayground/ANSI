@@ -1,4 +1,4 @@
-import { sequences } from "../constants/sequences.ts";
+import { sequences } from "../../constants/sequences.ts";
 
 /**
  * Moves cursor to home position (0, 0).

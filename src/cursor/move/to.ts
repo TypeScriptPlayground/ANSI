@@ -1,4 +1,4 @@
-import { sequences } from "../constants/sequences.ts";
+import { sequences } from "../../constants/sequences.ts";
 
 /**
  * Moves the cursor to x (column) and y (row).

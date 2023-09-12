@@ -1,4 +1,4 @@
-import { sequences } from "../constants/sequences.ts";
+import { sequences } from "../../constants/sequences.ts";
 
 /**
  * Moves cursor one line up, scrolling if needed.
